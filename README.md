@@ -14,10 +14,7 @@
 7. [Power BI Dashboard](#-power-bi-dashboard)
 8. [Key Insights](#-key-insights)
 9. [Business Recommendations](#-business-recommendations)
-10. [Limitations & Next Steps](#-limitations--next-steps)
-11. [Repository Structure](#-repository-structure)
-12. [How to Run](#-how-to-run)
-13. [Author](#-author)
+10. [Author](#-author)
 
 ---
 
